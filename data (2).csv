@@ -1,0 +1,81 @@
+Location,Dim1,Dim2,FactValueNumeric
+Maldives,Female,30-49 years,0.14
+Maldives,Female,15-29  years,0.35
+Maldives,Female,50-69 years,0.34
+Myanmar,Female,30-49 years,1.05
+Myanmar,Female,15-29  years,1.16
+Maldives,Male,15-29  years,1.59
+Bangladesh,Female,30-49 years,1.67
+Bangladesh,Female,50-69 years,1.71
+Maldives,Male,30-49 years,1.75
+Myanmar,Female,50-69 years,1.74
+Bhutan,Male,50-69 years,10.43
+Sri Lanka,Female,15-29  years,10.38
+Nepal,Female,15-29  years,11.17
+India,Female,30-49 years,12.62
+Democratic People's Republic of Korea,Female,50-69 years,12.75
+Bhutan,Female,70+  years,13.09
+Nepal,Female,70+  years,13.11
+Timor-Leste,Male,70+  years,13.61
+Myanmar,Male,70+  years,13.72
+Sri Lanka,Female,70+  years,14.06
+India,Female,50-69 years,14.27
+India,Male,15-29  years,15.01
+Nepal,Male,15-29  years,16.94
+India,Female,15-29  years,16.98
+India,Female,70+  years,18.03
+Democratic People's Republic of Korea,Male,50-69 years,18.32
+Nepal,Male,30-49 years,18.63
+India,Male,30-49 years,19.54
+Maldives,Male,50-69 years,2.29
+Timor-Leste,Female,30-49 years,2.38
+Bangladesh,Female,70+  years,2.52
+Myanmar,Female,70+  years,2.57
+Thailand,Male,50-69 years,20.05
+Nepal,Male,50-69 years,20.63
+India,Male,50-69 years,20.79
+Thailand,Male,70+  years,22.31
+Democratic People's Republic of Korea,Female,70+  years,22.65
+Bhutan,Male,70+  years,24.63
+Sri Lanka,Male,15-29  years,25.29
+India,Male,70+  years,27.09
+Bhutan,Female,30-49 years,3.06
+Bhutan,Female,15-29  years,3.38
+Timor-Leste,Female,15-29  years,3.5
+Sri Lanka,Male,30-49 years,31.39
+Sri Lanka,Male,50-69 years,31.71
+Democratic People's Republic of Korea,Male,70+  years,34.41
+Maldives,Male,70+  years,36.09
+Thailand,Male,15-29  years,36.75
+Nepal,Male,70+  years,38.62
+Bangladesh,Female,15-29  years,4.01
+Democratic People's Republic of Korea,Female,15-29  years,4.01
+Timor-Leste,Female,50-69 years,4
+Bangladesh,Male,50-69 years,4.43
+Maldives,Female,70+  years,4.64
+Bangladesh,Male,30-49 years,4.75
+Sri Lanka,Female,30-49 years,4.77
+Thailand,Male,30-49 years,45.95
+Sri Lanka,Female,50-69 years,5.2
+Timor-Leste,Female,70+  years,5.33
+Bhutan,Male,15-29  years,5.38
+Myanmar,Male,15-29  years,5.36
+Bangladesh,Male,15-29  years,5.52
+Thailand,Female,15-29  years,5.68
+Thailand,Female,50-69 years,5.67
+Bhutan,Female,50-69 years,6.19
+Myanmar,Male,30-49 years,6.22
+Democratic People's Republic of Korea,Male,15-29  years,6.27
+Timor-Leste,Male,15-29  years,6.34
+Bhutan,Male,30-49 years,6.82
+Myanmar,Male,50-69 years,6.95
+Sri Lanka,Male,70+  years,61.37
+Thailand,Female,30-49 years,7.12
+Timor-Leste,Male,30-49 years,7.23
+Democratic People's Republic of Korea,Female,30-49 years,7.28
+Thailand,Female,70+  years,7.61
+Nepal,Female,30-49 years,7.8
+Timor-Leste,Male,50-69 years,8.06
+Bangladesh,Male,70+  years,8.2
+Nepal,Female,50-69 years,9.24
+Democratic People's Republic of Korea,Male,30-49 years,9.4
